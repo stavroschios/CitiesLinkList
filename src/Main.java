@@ -40,7 +40,7 @@ public class Main {
                 return false;
             } else if(comparison > 0) {
                 // new City should appear before this one
-                // Brisbane  -> Adelaide
+               
                 stringListIterator.previous();
                 stringListIterator.add(newCity);
                 return true;
