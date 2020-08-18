@@ -1,3 +1,3 @@
 # CitiesLinkList
 
-A simple bucketList checker for cities you want to visit.
+A demo bucketList like checker for cities you want to visit using LinkLists
